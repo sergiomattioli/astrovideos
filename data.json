@@ -1,60 +1,30 @@
 [
    {
-      "name":"Tom Hardy",
-      "image":"https://api.androidhive.info/json/images/tom_hardy.jpg",
-      "phone":"(541) 754-3010",
-      "email":"tom@rxjava.wtf",
-      "source":"gmail",
+      "imageUrl":"https://i.ytimg.com/vi/YrQVYEb6hcc/maxresdefault.jpg",
+      "title":"EXPERIMENT Glowing 1000 degree METAL BALL vs Gunpowder (100 grams)",
+      "videoId":"YrQVYEb6hcc"
+   },
+   {
       "imageUrl":"https://i.ytimg.com/vi/zI-Pux4uaqM/maxresdefault.jpg",
       "title":"Thugs Of Hindostan - Official Trailer | Amitabh Bachchan | Aamir Khan | Katrina Kaif | Fatima",
       "videoId":"zI-Pux4uaqM"
    },
    {
-      "name":"Keira Knightley",
-      "image":"https://api.androidhive.info/json/images/keira.jpg",
-      "phone":"(535) 324-4334",
-      "email":"keira@rxjava.wtf",
-      "source":"gmail",
       "imageUrl":"https://i.ytimg.com/vi/zI-Pux4uaqM/maxresdefault.jpg",
       "title":"Thugs Of Hindostan - Official Trailer | Amitabh Bachchan | Aamir Khan | Katrina Kaif | Fatima",
       "videoId":"zI-Pux4uaqM"
    },
    {
-      "name":"Robert De Niro",
-      "image":"https://api.androidhive.info/json/images/robert_de.jpg",
-      "phone":"(767) 544-8867",
-      "email":"robert@rxjava.wtf",
-      "source":"gmail",
-      "imageUrl":"https://i.ytimg.com/vi/zI-Pux4uaqM/maxresdefault.jpg",
-      "title":"Thugs Of Hindostan - Official Trailer | Amitabh Bachchan | Aamir Khan | Katrina Kaif | Fatima",
-      "videoId":"zI-Pux4uaqM"
-   },
-   {
-      "name":"Leonardo DiCaprio",
-      "image":"https://api.androidhive.info/json/images/leonardo.jpg",
-      "phone":"(564) 333-2452",
-      "email":"dicaprio@rxjava.wtf",
-      "source":"gmail",
       "imageUrl":"https://i.ytimg.com/vi/8ZK_S-46KwE/maxresdefault.jpg",
       "title":"Colors for Children to Learning with Baby Fun Play with Color Balls Dolphin Slider Toy Set Kids Edu",
       "videoId":"8ZK_S-46KwE"
    },
    {
-      "name":"Will Smith",
-      "image":"https://api.androidhive.info/json/images/will.jpg",
-      "phone":"(541) 879-3453",
-      "email":"will@rxjava.wtf",
-      "source":"gmail",
       "imageUrl":"https://i.ytimg.com/vi/8czMWUH7vW4/hqdefault.jpg",
       "title":"Air Hostess Accepts Marriage Proposal Mid-Air, Airline Fires her.",
       "videoId":"8czMWUH7vW4"
    },
    {
-      "name":"Russell Crowe",
-      "image":"https://api.androidhive.info/json/images/russell.jpg",
-      "phone":"(234) 234-3321",
-      "email":"crowe@rxjava.wtf",
-      "source":"gmail",
       "imageUrl":"https://i.ytimg.com/vi/YrQVYEb6hcc/maxresdefault.jpg",
       "title":"EXPERIMENT Glowing 1000 degree METAL BALL vs Gunpowder (100 grams)",
       "videoId":"YrQVYEb6hcc"
